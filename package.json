@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDAW37/NODEJS.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodeJS"
+  ],
+  "author": "Juan Tenreiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDAW37/NODEJS/issues"
+  },
+  "homepage": "https://github.com/JuanDAW37/NODEJS#readme",
+  "dependencies": {
+    "picocolors": "1.0.1"
+  }
+}
